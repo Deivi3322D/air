@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/use/bin/env bash
 
 readonly reset=$(tput sgr0)
 readonly red=$(tput bold; tput setaf 1)
